@@ -1,0 +1,17 @@
+[
+  {
+     "href": "https://github.com/Athernum/Athernum-The-Old-World/releases/download/GPS/Children.of.the.Ashes.pdf",
+     "content": "Children of the Ashes",
+     "src": "/images/tcg/factions/cota.jpg"
+  },
+  {
+     "href": "https://github.com/Athernum/Athernum-The-Old-World/releases/download/GPS/Order.of.the.White.Flame.pdf",
+     "content": "Order of the White Flame",
+     "src": "/images/tcg/factions/ootwf.jpg"
+  },
+  {
+     "href": "https://github.com/Athernum/Athernum-The-Old-World/releases/download/GPS/The.Ascendant.Archive.pdf",
+     "content": "The Ascendant Archive",
+     "src": "/images/tcg/factions/taa.jpg"
+  }
+]
