@@ -1,0 +1,17 @@
+{
+  "lang_menu": "🇺🇸 EN",
+  "home_link": "Home",
+  "sub_title": "A creative brand bringing together various open-source projects in the realm of board and video games",
+  "overview_title": "Explore the Worlds of Athernum",
+  "overview_text": "While these projects may differ in terms of content and gameplay, they all share a common universe. Athernum aims to create a collaborative and creative platform where both game developers and players can actively contribute to a vibrant, evolving world",
+  "project_tcg": "In this trading card game, players build individual decks from characters, locations, and items, and face each other in tactical duels. Each match tells a new chapter of the old world's history – full of intrigue, strategy, and shifting alliances",
+  "foss_title": "Why Open Source?",
+  "foss_sub_title": "We create projects whose source code and materials are publicly accessible and can be viewed, used, modified, and redistributed by anyone",
+  "foss_text1_h": "Community Interaction is Key",
+  "foss_text1": "We believe that open source is the perfect foundation for sustainable, transparent, and community-driven game development. By releasing our projects under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0)., we allow the community to expand, modify, and add new ideas—without any legal uncertainties. Additionally, we also provide templates for all our projects, which set the technical or conceptual framework and can be used even for commercial purposes. This is ideal for developers looking to build their own projects upon a stable foundation.",
+  "foss_text2": "Another core principle for us is easy access: all content—whether it's the code for a video game or the materials for a board game—is freely available for download, use, and sharing. We want as many people as possible to enjoy our games, regardless of their financial situation or background",
+  "read_more_button": "Read more",
+  "copyright_title": "License Agreement",
+  "copyright_notice": "Athernum, it's derivates and the accompanying material are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). This license allows you to copy, distribute, perform publicly, remix, modify, and build upon the work, as long as the original creator is credited, the work is not used for commercial purposes, and any changes are shared under the same license. It is valid internationally. If you intend to use the work commercially, please contact the creator",
+  "visit_us": "Visit us on GitHub"
+}

@@ -1,0 +1,17 @@
+{
+  "lang_menu": "🇩🇪 DE",
+  "home_link": "Startseite",
+  "sub_title": "Eine kreative Marke, die verschiedene Open-Source-Projekte im Bereich Brett- und Videospiele vereint",
+  "overview_title": "Erkunde die Welten von Athernum",
+  "overview_text": "Auch wenn sich diese Projekte in Inhalt und Spielweise unterscheiden, teilen sie doch ein gemeinsames Universum. Athernum verfolgt das Ziel, eine kollaborative und kreative Plattform zu schaffen, auf der sowohl Spielentwickler als auch Spieler aktiv zu einer lebendigen, sich stetig entwickelnden Welt beitragen können",
+  "project_tcg": "Spieler bauen in diesem Sammelkartenspiel individuelle Decks aus Charakteren, Orten und Gegenständen und treten in taktischen Duellen gegeneinander an. Jede Partie erzählt einen neuen Abschnitt der alten Weltgeschichte – voller Intrigen, Strategien und sich wandelnder Allianzen",
+  "foss_title": "Warum Quelloffen?",
+  "foss_sub_title": "Wir erstellen Projekte, deren Quellcode und Material öffentlich zugänglich ist und von jedem eingesehen, genutzt, verändert und weiterverbreitet werden darf",
+  "foss_text1_h": "Communityinteraktion is der Schlüssel",
+  "foss_text1": "Wir glauben, dass Open Source die perfekte Grundlage für nachhaltige, transparente und gemeinschaftlich getragene Spielentwicklung ist. Indem wir unsere Projekte unter der Creative Commons Namensnennung-Nichtkommerziell-Weitergabe unter gleichen Bedingungen 4.0 Internationalen Lizenz (CC BY-NC-SA 4.0) veröffentlichen, ermöglichen wir der Community, die Projekte zu erweitern, zu modifizieren und neue Ideen hinzuzufügen – ganz ohne rechtliche Unsicherheiten. Zusätzlich stellen wir auch Vorlagen für all unsere Projekte zur Verfügung, die den technischen oder konzeptionellen Rahmen setzen und sogar für kommerzielle Zwecke genutzt werden können. Dies ist ideal für Entwickler, die ihre eigenen Projekte auf einer stabilen Grundlage aufbauen möchten.",
+  "foss_text2": "Ein weiteres Grundprinzip für uns ist der einfache Zugang: Alle Inhalte – sei es der Code für ein Videospiel oder die Materialien für ein Brettspiel – stehen kostenlos zum Download, zur Nutzung und zum Teilen zur Verfügung. Wir möchten, dass so viele Menschen wie möglich unsere Spiele genießen können, unabhängig von ihrer finanziellen Situation oder ihrem Hintergrund",
+  "read_more_button": "Mehr erfahren",
+  "copyright_title": "Lizenzbedingungen",
+  "copyright_notice": "Athernum, seine Abwandlungen und das begleitende Material stehen unter der Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0). Diese Lizenz erlaubt es, ein Werk zu vervielfältigen, zu verbreiten, öffentlich aufzuführen, zu remixen, zu verändern und darauf aufzubauen, solange die Rechte des Urhebers genannt werden, das Werk nicht kommerziell genutzt wird und Änderungen unter derselben Lizenz weitergegeben werden. Sie ist international gültig. Bei Absicht zur kommerziellen Nutzung kontaktiere bitte den Urheber",
+  "visit_us": "Besuche uns auf GitHub"
+}
