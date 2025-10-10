@@ -4210,7 +4210,6 @@ p {
 @media screen and (max-width: 480px) {
   .small-article {
     max-width: 48%;
-    margin-right: 1em !important;
-    margin-left: 1em !important;
+    margin: 0 1.75em 2em 0 !important;
   }
 }
