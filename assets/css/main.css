@@ -4200,9 +4200,17 @@ p {
 	text-align: justify;
 }
 
-.small-article {
-  width: auto !important;
-  max-width: 31%;
-  margin-right: 1% !important;
-  margin-left: 1% !important;
+
+@media screen and (min-width: 481px) {
+  .small-article {
+    max-width: 31%;
+    margin-right: 1% !important;
+    margin-left: 1% !important;
+  }
+}
+@media screen and (max-width: 480px) {
+  .small-article {
+    width: 100%;
+    margin: 0 0 2em 0 !important;
+  }
 }
