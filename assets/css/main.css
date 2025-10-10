@@ -4201,6 +4201,7 @@ p {
 }
 
 .small-article {
+  width: auto !important;
   max-width: 31%;
   margin-right: 1% !important;
   margin-left: 1% !important;
